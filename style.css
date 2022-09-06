@@ -85,7 +85,7 @@ li{
     height:100px;
     width:100vw;
     background-color: rgb(49, 49, 52, 85%);
-    box-shadow: 0px 1px 8px black;
+    border-bottom: 3px solid white;
 }
 
 .top-button{
@@ -97,7 +97,7 @@ li{
     color:white;
     font-family: "Roboto";
     font-size: 24px;
-    margin-right: 40px;
+    margin-right: 20px;
     margin-top:25px;
     float:right;
 }
